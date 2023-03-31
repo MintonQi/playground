@@ -13,6 +13,7 @@ public class App
     {
         int a = 1;
         int b = 2;
+        int d = 4;
         System.out.println( "Hello World!" );
 
     }
